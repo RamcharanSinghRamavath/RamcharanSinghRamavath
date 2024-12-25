@@ -1,7 +1,7 @@
 # About Me ✨
 
-<h1 align="center">Hi 👋, I'm Ramcharan Singh Ramavath</h1>
-<h3 align="center">An aspiring Full Stack Developer with a passion for Data Science, AI & Machine Learning.</h3>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋, I'm Ramcharan Singh Ramavath</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555555;">🚀 A passionate <strong>Full Stack Developer</strong> with a strong passion for learning and growing in the fields of  <strong>Data Science</strong>, <strong>AI</strong>, and <strong>Machine Learning</strong>. Always eager to learn, build, and innovate!</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 
@@ -10,13 +10,14 @@
 </p>
 
 <p align="left"> 
-  <a href="https://instagram.com/ramcharan_2907" target="blank">
+  <a href="https://www.instagram.com/ramcharan_2907?igsh=MWgwcTJzeTFlODU4bA==" target="blank">
     <img src="https://img.shields.io/badge/follow-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="ramcharan_2907" />
   </a> 
   <a href="https://www.linkedin.com/in/ramavath-ramcharan-singh29/" target="blank">
     <img src="https://img.shields.io/badge/Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ramavath-ramcharan-singh29" />
   </a> 
 </p>
+
 
 
 
@@ -31,12 +32,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ramcharanrsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramcharanrsr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramcharan-singh-ramavath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramcharan-singh-ramavath" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ramcharansingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ramcharansingh" height="30" width="40" /></a>
-<a href="https://instagram.com/ramcharansingh.rs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramcharansingh.rs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramcharansingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramcharansingh" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Ramcharan29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ramcharan29" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ramcharan_2907?igsh=MWgwcTJzeTFlODU4bA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramcharan_2907" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ramavath-ramcharan-singh29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramavath-ramcharan-singh29" height="30" width="40" /></a>
+  <a href="https://github.com/RamcharanSinghRamavath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RamcharanSinghRamavath" height="30" width="40" /></a>
+  <a href="https://twitter.com/ramcharanrsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramcharanrsr" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
