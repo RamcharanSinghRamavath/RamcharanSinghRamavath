@@ -13,10 +13,11 @@
   <a href="https://instagram.com/ramcharan_2907" target="blank">
     <img src="https://img.shields.io/badge/follow-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="ramcharan_2907" />
   </a> 
-  <a href="[https://www.linkedin.com/in/ramavath-ramcharan-singh29/]" target="blank">
+  <a href="https://www.linkedin.com/in/ramavath-ramcharan-singh29/" target="blank">
     <img src="https://img.shields.io/badge/Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ramavath-ramcharan-singh29" />
   </a> 
 </p>
+
 
 
 
