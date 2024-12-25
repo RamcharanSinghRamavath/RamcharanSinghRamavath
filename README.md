@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I’m currently working on [Exciting Full Stack Projects](#)
+- 🔭 I’m currently working on [Exciting Full Stack Projects & Data Science, AI & Machine Learning Projects ](#)
 
 - 🌱 I’m currently learning *Next JS*
 
