@@ -1,5 +1,3 @@
-# About Me ✨
-
 <div align="center" style="font-family: 'Arial', sans-serif; color: #333;">
     <h1 style="color: #4CAF50;">👋 Hi, I'm Ramcharan Singh Ramavath</h1>
     <h2>🎓 Third-Year Undergraduate Student</h2>
@@ -16,6 +14,16 @@
         and <strong>Machine Learning</strong>. Constantly driven by curiosity, I strive to learn, build, and innovate 
         while creating impactful solutions for real-world challenges.
     </p>
+    <div>
+        <a href="https://www.linkedin.com/in/ramavath-ramcharan-singh29/" target="_blank" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
+            Connect with me on LinkedIn
+        </a>
+        <a href="mailto:ramcharansinghramavath@gmail.com" target="_blank" style="text-decoration: none; background-color: #FF5722; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
+            Reach out via Email
+        </a>
+    </div>
+</div>
+
 </div>
 
 
@@ -83,19 +91,31 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> </a>
-  
-  <!-- Using provided SciPy image -->
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy" width="40" height="40"/>
   </a>
-
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
   </a>
-  
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" alt="pytorch" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
 </p>
+
 
 
 
