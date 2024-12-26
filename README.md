@@ -104,8 +104,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RamcharanSinghRamavath&show_icons=true&locale=en" alt="RamcharanSinghRamavath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamcharanSinghRamavath&" alt="RamcharanSinghRamavath" /></p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RamcharanSinghRamavath&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+##🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=RamcharanSinghRamavath)](https://github.com/RamcharanSinghRamavath)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
