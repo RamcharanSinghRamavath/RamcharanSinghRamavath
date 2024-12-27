@@ -1,30 +1,33 @@
-<div align="center" style="font-family: 'Arial', sans-serif; color: #333;">
-    <h1 style="color: #4CAF50;">👋 Hi, I'm Ramcharan Singh Ramavath</h1>
-    <h2>🎓 Third-Year Undergraduate Student</h2>
-    <p style="font-size: 1.2em;">
-        Pursuing a Bachelor of Technology in <strong>Computer Science and Engineering</strong> at <br>
+<div align="center" style="font-family: 'Arial', sans-serif; color: #333; max-width: 800px; margin: 0 auto;">
+    <h1 style="color: #4CAF50; font-size: 2.8em; font-weight: bold;">👋 Hi, I'm Ramcharan Singh Ramavath</h1>
+    <h2 style="color: #333; font-size: 1.9em; margin-bottom: 20px;">🎓 Third-Year Computer Science & Engineering Student</h2>
+    <p style="font-size: 1.3em; line-height: 1.7; color: #555;">
+        Currently pursuing a Bachelor of Technology in <strong>Computer Science and Engineering</strong> at <br>
         <em>Indian Institute of Information Technology Vadodara International Campus DIU</em>.
     </p>
-    <hr style="border: none; border-top: 2px solid #4CAF50; width: 50%; margin: 20px auto;">
-    <h3 style="color: #555;">
-        🚀 Passionate <strong>Full Stack Developer</strong>
+    <hr style="border: none; border-top: 3px solid #4CAF50; width: 50%; margin: 20px auto;">
+    <h3 style="color: #4CAF50; font-size: 1.7em;">
+        🚀 Enthusiast in <strong>Data Science</strong>, <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Full Stack Development</strong>
     </h3>
-    <p style="font-size: 1.1em; max-width: 600px; margin: 0 auto;">
-        With a deep enthusiasm for exploring <strong>Data Science</strong>, <strong>Artificial Intelligence</strong>, 
-        and <strong>Machine Learning</strong>. Constantly driven by curiosity, I strive to learn, build, and innovate 
-        while creating impactful solutions for real-world challenges.
+    <p style="font-size: 1.2em; line-height: 1.7; color: #555; max-width: 650px; margin: 0 auto;">
+        I am deeply fascinated by the power of <strong>Data Science</strong> and how data-driven insights can revolutionize decision-making and innovation. My journey is fueled by a desire to unlock the potential of <strong>Artificial Intelligence</strong> to create intelligent systems that push the boundaries of what’s possible. With a keen interest in <strong>Machine Learning</strong>, I strive to design models that can predict outcomes, enhance processes, and make meaningful impacts on industries and society.
+    </p>
+    <p style="font-size: 1.2em; line-height: 1.7; color: #555; max-width: 650px; margin: 20px auto;">
+        Combining my passion for programming, mathematics, and problem-solving, I am also a passionate <strong>Full Stack Developer</strong>, continuously working on building end-to-end web applications. I believe in the power of technology to create seamless and interactive user experiences across both front-end and back-end systems. From crafting intuitive user interfaces with HTML, CSS, and JavaScript to developing robust back-end logic with frameworks like Node.js and Spring Boot, I enjoy the challenge of integrating these technologies to build scalable and dynamic web solutions.
+    </p>
+    <p style="font-size: 1.2em; line-height: 1.7; color: #555; max-width: 650px; margin: 20px auto;">
+        Whether it's diving into AI models or developing innovative web applications, I strive to leverage my knowledge to create impactful solutions that address real-world challenges and make a difference in people's lives.
     </p>
     <div>
-        <a href="https://www.linkedin.com/in/ramavath-ramcharan-singh29/" target="_blank" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
+        <a href="https://www.linkedin.com/in/ramavath-ramcharan-singh29/" target="_blank" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 12px 24px; font-size: 1.2em; border-radius: 6px; margin: 12px;">
             Connect with me on LinkedIn
         </a>
-        <a href="mailto:ramcharansinghramavath@gmail.com" target="_blank" style="text-decoration: none; background-color: #FF5722; color: white; padding: 10px 20px; font-size: 1.1em; border-radius: 5px; margin: 10px;">
+        <a href="mailto:ramcharansinghramavath@gmail.com" target="_blank" style="text-decoration: none; background-color: #FF5722; color: white; padding: 12px 24px; font-size: 1.2em; border-radius: 6px; margin: 12px;">
             Reach out via Email
         </a>
     </div>
 </div>
 
-</div>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
